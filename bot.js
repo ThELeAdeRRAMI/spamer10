@@ -6,7 +6,7 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("507275523349676034")
 setInterval(function() {
-channel.send(`Fuck You`);
+channel.send(`ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  ThE_LeAdeR  `);
 }, 30)
 })
 client.on("message", function(message) {
